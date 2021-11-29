@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FragmentFirstProject</string>
+    <string name="activity_main_tvTitle_text">FRAGMENTS</string>
+    <string name="activity_main_bOne_text">Fragment 1</string>
+    <string name="activity_main_bTwo_text">Fragment 2</string>
+    <string name="activity_main_bThree_text">Fragment 3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
